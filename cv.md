@@ -10,3 +10,15 @@ My goal is to learn **programming** and become a good specialist in this field. 
 4. Skills 
 - intermediate knowledge of HTML & CSS;
 - basic knowledge of JS;
+
+5. Code examples 
+
+6. Work experience 
+
+7. Education: 
+- Html-academy courses 
+- It-kamasutra online lessons
+-  online tutorial learn.javascript.com 
+- various video tutorials about HTML, CSS, JS
+
+8. English: Level A2.
